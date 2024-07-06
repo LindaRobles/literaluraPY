@@ -80,11 +80,12 @@ public class Principal {
         }
     }
 
+    //Se comenta función que da error
 //    private void buscarLibroPorAutor() {
 //        System.out.println("Ingrese el nombre del autor que desea buscar: ");
 //        String nombreAutor = teclado.nextLine();
 //
-//        // Buscar el autor en la base de datos
+//        // Buscar el autor en la base de datos--pendiente conexión con base de datos.
 //        List<Autor> autores = repositoryAutor.findByNombreContainingIgnoreCase(nombreAutor);
 //
 //        if (autores.isEmpty()) {
@@ -92,7 +93,7 @@ public class Principal {
 //            return;
 //        }
 
-//        // Listar todos los autores encontrados
+//        // Listar todos los autores encontrados-pendiente para la base de datos
 //        for (Autor autor : autores) {
 //            System.out.println("Autor: " + autor.getNombre());
 //            List<Libro> libros = autor.getLibro();
