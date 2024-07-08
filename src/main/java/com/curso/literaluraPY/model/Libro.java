@@ -15,7 +15,7 @@ public class Libro {
     @ManyToOne()
     private Autor autor;
 
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     private List<String> idiomas;
     private Integer numeroDeDescargas;
 
