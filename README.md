@@ -46,3 +46,6 @@ Este proyecto es una aplicaci√≥n de consola y no incluye un frontend. Se utiliz√
 ------
 
 ![DB-Libros](https://github.com/LindaRobles/literaluraPY/assets/132003177/4c998bcd-f592-4cae-ac41-c66c81eccb46)
+
+
+![badge literalura](https://github.com/LindaRobles/literaluraPY/assets/132003177/ad630ef6-6fde-4897-9ac2-f13dbe44d461)
