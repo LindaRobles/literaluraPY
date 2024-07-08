@@ -33,7 +33,7 @@ public class Principal {
         while (opcion != 0) {
             String menu = """
                     |***************************************************|
-                     |*****  BIENVENIDO A LITERALURA 2024 (=ↀωↀ=) ****|
+                    |*****  BIENVENIDO A LITERALURA 2024 (=ↀωↀ=)  *****|
                     |***************************************************|
                     1 - Buscar libros por título
                     2 - Mostrar listado de libros
